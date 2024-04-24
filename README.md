@@ -1,1 +1,1 @@
-# sha256_make
+basit bir şekilde sha 256 şifrelemesi
